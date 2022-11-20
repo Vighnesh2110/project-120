@@ -1,0 +1,56 @@
+p {
+    color: red;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bottom {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+.img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+b {
+    color: purple;
+}
+
+h5{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+}
+
+.test_image_and_result {
+    margin-top: 15px;
+    background-color: rgb(155, 153, 153);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width: 99%;
+    margin-bottom: 15px;
+}
+
+.white {
+    color: white;
+
+}
+
+h4 {
+    color: white;
+    font-weight: bold;
+}
+
+hr{
+    width: 50%;
+}
